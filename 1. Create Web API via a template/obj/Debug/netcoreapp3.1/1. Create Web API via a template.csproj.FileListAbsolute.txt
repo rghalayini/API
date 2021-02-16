@@ -1,0 +1,20 @@
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.exe
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.deps.json
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.runtimeconfig.json
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.runtimeconfig.dev.json
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.dll
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\bin\Debug\netcoreapp3.1\1. Create Web API via a template.pdb
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.AssemblyInfoInputs.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.AssemblyInfo.cs
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\staticwebassets\1. Create Web API via a template.StaticWebAssets.Manifest.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\staticwebassets\1. Create Web API via a template.StaticWebAssets.xml
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\scopedcss\bundle\1. Create Web API via a template.styles.css
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.RazorTargetAssemblyInfo.cache
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.dll
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.pdb
+C:\Users\remyg\Programming\API\APILabs\1. Create Web API via a template\obj\Debug\netcoreapp3.1\1. Create Web API via a template.genruntimeconfig.cache

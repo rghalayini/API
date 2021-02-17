@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qfWgoBO/i3KhGHuUyPS7trJYmeV/icINgDZoSEIgW9CqaxQuhIszVtFs0dRjeOeiTjhPRRiojJcWpjsHSyb4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\remyg\\Programming\\API\\APILabs\\8Blazor\\8Blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\remyg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

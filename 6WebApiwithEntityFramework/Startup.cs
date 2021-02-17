@@ -9,8 +9,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
 using _6WebApiwithEntityFramework.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace _6WebApiwithEntityFramework
 {
@@ -27,15 +27,16 @@ namespace _6WebApiwithEntityFramework
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
             services.AddDbContext<ApiContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("SqlConnection")));
+                options.UseSqlServer(Configuration.GetConnectionString("SqlConnection")));
 
             services
-                .AddMvc(OptionsBuilderConfigurationExtensions => OptionsBuilderConfigurationExtensions.EnableEndpointRouting = false)
+                .AddMvc(options => options.EnableEndpointRouting = false)
                 .SetCompatibilityVersion(CompatibilityVersion.Latest)
                 .AddNewtonsoftJson(options =>
-                   options.SerializerSettings.ReferenceLoopHandling =
-                       Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+                    options.SerializerSettings.ReferenceLoopHandling = 
+                        Newtonsoft.Json.ReferenceLoopHandling.Ignore);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,14 @@
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.AssemblyInfoInputs.cache
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.AssemblyInfo.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.RazorComponent.input.cache
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Customers.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\remyg\Programming\API\APILabs\8Blazor\obj\Debug\netcoreapp3.1\8Blazor.RazorComponent.output.cache

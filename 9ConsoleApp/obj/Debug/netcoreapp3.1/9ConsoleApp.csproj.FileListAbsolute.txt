@@ -1,0 +1,15 @@
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.exe
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.deps.json
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.runtimeconfig.json
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.runtimeconfig.dev.json
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.dll
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\9ConsoleApp.pdb
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.AssemblyInfo.cs
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.dll
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.pdb
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.genruntimeconfig.cache
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\API\APILabs\9ConsoleApp\obj\Debug\netcoreapp3.1\9ConsoleApp.csproj.CopyComplete

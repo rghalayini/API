@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrhoWjBSTs2INRCf/SySEgQ+WgoG1ABpbKOxDxaZTybkjy9/x2WbsSkp+I0SUjesmswF9pOPPK3H3sfJ+gtMow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\remyg\\Programming\\API\\APILabs\\9ConsoleApp\\9ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\remyg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

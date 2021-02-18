@@ -1,0 +1,6 @@
+# ignore appsettings configuration files
+
+**9Backend/appsettings.development.json
+**9Backend/appsettings.staging.json
+**9Backend/appsettings.production.json
+**9Backend/appsettings.json

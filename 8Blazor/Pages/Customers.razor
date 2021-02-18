@@ -35,7 +35,7 @@
                 <th scope="col" colspan="2">Email</th>
             </tr>
         </thead>
-        @if (customers !=null)
+        @if (customers != null)
         {
             <tbody>
                 @foreach (var customer in customers)
@@ -60,14 +60,15 @@
     private CustomerCreateModel customer;
 
     private async Task GetCustomers()
-    {   
-        customers = await http.GetJsonAsync<List<CustomerModel>>("http://localhost:53214/api/customers/");
+    {
+        customers = await http.GetFromJsonAsync<List<CustomerModel>>("http://localhost:53214/api/customers/");
         StateHasChanged();
     }
 
     private async Task CreateCustomers()
     {
-        await http.GetJsonAsync<CustomerCreateModel>("http://localhost:53214/api/customers/", customer);
+        await http.PostAsJsonAsync<CustomerCreateModel>("http://localhost:53214/api/customers/", customer);
+
         customer = new CustomerCreateModel();
         await GetCustomers();
     }
@@ -88,3 +89,5 @@
         await GetCustomers();
     }
 }
+
+@* FOr a review of the methods that need to be substituted with after the Blazor update, check this link https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-preview-4-release-now-available/ *@

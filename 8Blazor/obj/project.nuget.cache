@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0qfWgoBO/i3KhGHuUyPS7trJYmeV/icINgDZoSEIgW9CqaxQuhIszVtFs0dRjeOeiTjhPRRiojJcWpjsHSyb4A==",
+  "dgSpecHash": "OT5/XqD7JsDbijEaPBfn7oAefsyLeN7oQ61MbVwnG2cC6fL+sdHJibjXWnWKtf6kcVHD0g1NHBBDOLSh3QPngg==",
   "success": true,
   "projectFilePath": "C:\\Users\\remyg\\Programming\\API\\APILabs\\8Blazor\\8Blazor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\remyg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\remyg\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\remyg\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
